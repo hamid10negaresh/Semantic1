@@ -1,0 +1,15 @@
+# PyTorch (CUDA 12.1 - local)
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.1.2+cu121
+torchvision==0.16.2+cu121
+
+# Core
+numpy>=1.24
+matplotlib>=3.8
+tqdm>=4.66
+
+# Metrics
+lpips>=0.1.4
+
+# Robustness
+robustbench>=1.1.1
