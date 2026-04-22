@@ -28,3 +28,7 @@ python -m scripts.eval_isii_cifar10 --snr 18 --isiis 0.2 0.3 0.4 0.5 0.6 0.7 0.8
 
 ## ADE20K (segmentation)
 Prepare a pretrained segmentation model or use the simple PSPNet-lite stub provided. Set `ADE20K_DIR` to the dataset root.
+
+
+
+AAAAAAA
